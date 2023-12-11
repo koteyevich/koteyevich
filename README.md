@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm koteyevich</h1>
+<h1 align="center">Hi, I'm koteyevich</h1><img src="https://files.human.ua/images/7q6EAntPuEvbBODkLmyfdjxX8ACFz-f5.jpg" alt="cat" width="40" height="40"/>
 <h3 align="center">A passionate developer from Ukraine that does silly projects</h3>
 
 - I’m currently working on **games in unity**
